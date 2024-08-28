@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Hide raw_data because the data file is too big
+raw_data/
+
