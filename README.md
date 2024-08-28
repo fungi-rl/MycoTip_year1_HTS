@@ -1,7 +1,7 @@
 # MycoTip_year1_HTS
 Analysis of mycorrhizal root tip community from 2023 samples in The Morton Arboretum forestry plots
 
-## HTS data processing performed by Peter Kennedy before receiving 
+## HTS data processing performed by Peter Kennedy
 ITS raw data processing:
 * table tidy'ed
 * sequence and taxonomic datasets were separated in ASV table
